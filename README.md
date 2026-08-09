@@ -121,3 +121,19 @@ In VS Code, select the `.venv` kernel and use **Restart Kernel and Run All Cells
 ## Short project summary
 
 This project combines four World Bank datasets to study GDP growth across Europe. After building a balanced 41-country panel for 2000–2018, the analysis finds that productivity growth has the strongest positive relationship with GDP growth. Investment is also positively associated with growth, but its magnitude is more sensitive to large shocks. Country and year fixed effects show that these relationships remain after controlling for persistent country differences and shared annual events, although the evidence should not be interpreted causally.
+
+## Policy implications: enhancing productivity in Europe
+
+The results point to a clear pattern: countries with stronger productivity growth also tend to experience higher GDP growth. While this does not establish causality, it does suggest that policies aimed at improving productivity are closely linked to better economic performance over time.
+
+A first and central area is **human capital**. Governments can raise productivity by investing in skills, education, and lifelong learning. As economies become more digital and knowledge-intensive, workers need to continuously adapt. Well-designed training programmes that focus on digital and technical skills, aligned with labour-market needs, can help ensure that workers remain productive and employable.
+
+Another key driver is **innovation and technology adoption**. Supporting research and development, strengthening collaboration between universities and firms, and improving access to digital tools can all help firms operate more efficiently. This is especially important for small and medium-sized enterprises, which often face greater financial and organisational barriers when adopting new technologies.
+
+Productivity is also strongly influenced by the **business environment**. When administrative procedures are complex or slow, firms may delay or reduce investment. Simplifying regulation, improving public administration, and ensuring a stable and predictable policy framework can make it easier for firms to invest in new capital, expand operations, and adopt more efficient production methods.
+
+In addition, **infrastructure investment** plays a long-term role in supporting productivity. High-quality transport networks, reliable digital infrastructure, and efficient energy systems reduce costs for firms and improve connectivity within and across countries. These investments create the conditions in which private sector activity can grow more efficiently.
+
+Finally, it is important to recognise that European countries are not homogeneous. They differ in income levels, institutional quality, and economic structure. As a result, productivity policies should not be one-size-fits-all. Lower-productivity economies may benefit more from basic infrastructure and technology diffusion, while more advanced economies are likely to gain more from innovation-driven strategies and frontier research.
+
+Overall, the evidence suggests that policies which strengthen productivity—combined with an environment that encourages investment—are closely associated with stronger long-run growth. At the same time, these conclusions should be interpreted with caution, as the results highlight relationships in the data rather than definitive causal effects.
